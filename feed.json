@@ -9,19 +9,5 @@
         "name": "vim"
     },
     "items": [
-        {
-            "id": "https://vimbackground.github.io/cfpub/yi-ge-xin-tie-zi.html",
-            "url": "https://vimbackground.github.io/cfpub/yi-ge-xin-tie-zi.html",
-            "title": "一个新帖子",
-            "summary": "一个新贴纸，来看一看效果 非常好，非常好，非常好，非常好 School",
-            "content_html": "<p>一个新贴纸，来看一看效果</p>\n<p>非常好，非常好，非常好，非常好</p>\n<p>School</p>",
-            "author": {
-                "name": "vim"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-08-21T11:37:20+08:00",
-            "date_modified": "2026-08-21T11:37:20+08:00"
-        }
     ]
 }
