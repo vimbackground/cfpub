@@ -12,7 +12,7 @@
         {
             "id": "https://vimbackground.github.io/cfpub/post-1/index.html",
             "url": "https://vimbackground.github.io/cfpub/post-1/index.html",
-            "title": "Post 1",
+            "title": "博客文章",
             "summary": "本站的第一个贴子",
             "content_html": "<p>本站的第一个贴子</p>",
             "author": {
@@ -21,7 +21,7 @@
             "tags": [
             ],
             "date_published": "2026-08-21T14:16:17+08:00",
-            "date_modified": "2026-08-21T14:16:17+08:00"
+            "date_modified": "2026-08-21T15:26:42+08:00"
         }
     ]
 }
