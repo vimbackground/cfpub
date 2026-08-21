@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://vimbackground.github.io/cfpub/sitemap.xml

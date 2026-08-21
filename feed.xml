@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>vim&#x27;s notes</title>
+    <link href="https://vimbackground.github.io/cfpub/feed.xml" rel="self" />
+    <link href="https://vimbackground.github.io/cfpub" />
+    <updated>2026-08-21T11:37:20+08:00</updated>
+    <author>
+        <name>vim</name>
+    </author>
+    <id>https://vimbackground.github.io/cfpub</id>
+
+    <entry>
+        <title>一个新帖子</title>
+        <author>
+            <name>vim</name>
+        </author>
+        <link href="https://vimbackground.github.io/cfpub/yi-ge-xin-tie-zi.html"/>
+        <id>https://vimbackground.github.io/cfpub/yi-ge-xin-tie-zi.html</id>
+
+        <updated>2026-08-21T11:37:20+08:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    一个新贴纸，来看一看效果 非常好，非常好，非常好，非常好 School
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>一个新贴纸，来看一看效果</p>
+<p>非常好，非常好，非常好，非常好</p>
+<p>School</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
