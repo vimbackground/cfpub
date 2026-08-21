@@ -10,8 +10,8 @@
     },
     "items": [
         {
-            "id": "https://vimbackground.github.io/cfpub/post-1.html",
-            "url": "https://vimbackground.github.io/cfpub/post-1.html",
+            "id": "https://vimbackground.github.io/cfpub/post-1/index.html",
+            "url": "https://vimbackground.github.io/cfpub/post-1/index.html",
             "title": "Post 1",
             "summary": "本站的第一个贴子",
             "content_html": "<p>本站的第一个贴子</p>",
