@@ -9,5 +9,19 @@
         "name": "vim"
     },
     "items": [
+        {
+            "id": "https://vimbackground.github.io/cfpub/post-1.html",
+            "url": "https://vimbackground.github.io/cfpub/post-1.html",
+            "title": "Post 1",
+            "summary": "本站的第一个贴子",
+            "content_html": "<p>本站的第一个贴子</p>",
+            "author": {
+                "name": "vim"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-08-21T14:16:17+08:00",
+            "date_modified": "2026-08-21T14:16:17+08:00"
+        }
     ]
 }
